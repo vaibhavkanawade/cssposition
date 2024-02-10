@@ -1,0 +1,130 @@
+.main-box {
+    position: relative;
+    float: left;
+
+}
+
+#main-top-left {
+    position: relative;
+    background-color: #ccc;
+    width: 50%;
+    height: 50vh;
+}
+
+#main-top-right {
+    position: relative;
+    background-color: #e86f88;
+    width: 50%;
+    height: 50vh;
+}
+
+#main-bottom-left {
+    position: relative;
+    background-color: #79badb;
+    width: 50%;
+    height: 50vh;
+
+}
+
+#main-bottom-right {
+    position: relative;
+    background-color: #a2dbb1;
+    width: 50%;
+    height: 50vh;
+}
+
+
+#b1 {
+    position: absolute;
+    background-color: red;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    color: white;
+    border: 2px solid white;
+}
+
+#b2 {
+    position: absolute;
+    background-color: orange;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    color: white;
+    border: 2px solid white;
+    left: 83.8%;
+}
+
+
+#b3 {
+    position: absolute;
+    background-color: steelblue;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    color: white;
+    border: 2px solid white;
+    top: 81.5%;
+
+}
+
+#b4 {
+    position: absolute;
+    background-color: blue;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    color: white;
+    border: 2px solid white;
+    left: 83.5%;
+}
+
+
+
+#b5 {
+    position: absolute;
+    background-color: purple;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    color: white;
+    border: 2px solid white;
+}
+
+#b6 {
+    position: absolute;
+    background-color: coral;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    color: white;
+    border: 2px solid white;
+    top: 82.5%;
+    left: 83.5%;
+}
+
+
+
+#b7 {
+    position: absolute;
+    background-color: gray;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    color: white;
+    border: 2px solid white;
+    top: 82.5%;
+    left: 0%;
+}
+
+#b8 {
+    position: absolute;
+    background-color: red;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    color: white;
+    border: 2px solid white;
+    top: 82.5%;
+    left: 83.5%;
+}
